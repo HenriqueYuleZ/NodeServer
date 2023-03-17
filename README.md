@@ -13,8 +13,9 @@
 
 1. **'/'** - rota padrão com resposta `<h1>Home</h1>`
 2. **'/cadastro'** - rota com resposta `<h1>Cadastro</h1>`
-3. **'/contato'** - rota com resposta `<h1>Contato</h1>`
-4. **'/notfound'** - rota com resposta `<h1>URL sem resposta definida!</h1>`
+3. **'/local'** - rota com resposta `<h1>Local</h1>`
+4. **'/contato'** - rota com resposta `<h1>Contato</h1>`
+5. **'/notfound'** - rota com resposta `<h1>URL sem resposta definida!</h1>`
 
 #### URL do servidor com a porta
 
@@ -24,4 +25,4 @@ http://localhost:port
 
 tp definida como localhost
 
-porta definida como 8000
+porta definida como 3000 ou 8000
